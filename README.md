@@ -1,5 +1,6 @@
 # Hey there, I'm Ayush!
-Full-Stack Developer | India
+#Full-Stack Developer | India
+
 [![](https://visitcount.itsvg.in/api?id=AyushPawshe08&icon=0&color=0)](https://visitcount.itsvg.in)[![X follow @Ayushp8888](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayushp8888) 
 
 
